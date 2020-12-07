@@ -27,3 +27,6 @@ Inside client folder run **npm start** (starts react app)
 
 If you have docker, use: **docker-compose build** and then **docker-compose up**
 
+## When everything is running
+
+Open in your browser **http://localhost:3000/**
