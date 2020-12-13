@@ -8,7 +8,7 @@ And frontend is just React boostraped with [**create-react-app**](https://github
 # Getting started
 
 ## Step 1
-Clone the project: **git clone https://github.com/Luxiner98/mern_todo**
+Clone the project: **git clone https://github.com/Luxiner98/todo_mern.git**
 
 ## Step 2
 Open folder client and enter in shell **npm install**
